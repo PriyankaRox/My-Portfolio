@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "Priyanka Rokhade",
+    "description": "I am a Software Developer adept at designing and implementing scalable applications that streamline processes and enhance user experiences",
+    "image": "profilepic.jpg",
+    "bio": "Proficient in developing robust and scalable web applications using React.js, Node.js, designing, implementing RESTful APIs, integrating third party libraries, frontend technologies such as HTML5, CSS3, JavaScript, and expertise in responsive design principles. Proven ability to collaborate effectively in agile teams, deliver high quality code on time, and adapt quickly to changing project requirements. Seeking opportunities to utilize my expertise and contribute to the success of innovative software projects.",
+    "contactmessage": "Let's Connect and Create Something Amazing Together! Interested in discussing a project or have questions about something I've built? Feel free to reach out via email or through the contact info. I'm looking forward to hearing from you!",
+    "email": "priyankavrokhade@gmail.com",
+    "phone": "9738215789",
+    "github": "https://github.com/PriyankaRox",
+    "linkedin": "https://www.linkedin.com/in/priyanka-rokhade/",
+    "project": "https://github.com/PriyankaRox",
+    "address": {
+      "street": "Vidyagiri",
+      "city": "Dharwad",
+      "state": "Karnataka",
+      "zip": "580004"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/priyanka.rokhade.52/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/priyanka-rokhade/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/priyanka_coool/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PriyankaRox",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Software developer with 1.7 years of experience, I bring a versatile skill set finely tuned to meet the demands of today's dynamic workplace. Proficient in MERN stack, I excel in software development. With a keen eye for detail and a knack for problem-solving, I consistently deliver high-quality results. In addition to technical proficiency, I possess strong interpersonal skills, enabling effective collaboration within multidisciplinary teams. My ability to communication, time management, leadership further bolsters my contribution to projects.",
+    "education": [
+      {
+        "school": "KLE Technological University Hubballi",
+        "degree": "Masters in Computer Application",
+        "graduated": "September 2019 - June 2022",
+        "description": "MCA grad with a solid foundation in computer science. Equipped with advanced knowledge in software development, database management, and system analysis, I am adept at designing and implementing innovative solutions to complex technological challenges.Participated as a Association coordinator for MCA department and organized co-caricular activities for students and faculties. Represented as a Class representative for organizing and handling class activities."
+      },
+      {
+        "school": "JSS SMI UG & PG Studies, Dharwad",
+        "degree": "Bachelor of Science in Computer Science",
+        "graduated": "June 2016 - April 2019",
+        "description": "I hold a Bachelor of Science in Computer Science, a journey that honed my technical prowess and problem-solving skills. Beyond coding, I am a dynamic individual with a flair for event organization, where I've orchestrated successful events, annual gatherings that seamlessly blended innovation and creativity. On a different note, I find solace in the art of dance, a passion that fuels my creativity and discipline. In addition to these pursuits, I proudly clinched the top spot in an intercollege debate competition and secured 2nd place, a testament to my effective communication and critical thinking abilities. This diverse range of experiences has not only enriched my skill set but also instilled in me the value of versatility and teamwork."
+      }
+    ],
+    "work": [
+      {
+        "company": "Scobees",
+        "title": "Freelancer ",
+        "years": "August 2023 - Present",
+        "description": "Developing a new learning experience platform to be used in schools.As a freelancer designing frontend using CSS, bootstrap and material UI."
+      },
+      {
+        "company": "SPAK Engineering",
+        "title": "Software Developer",
+        "years": "February 2022 - July 2023",
+        "description": "Developed features to enhance user experience by using libraries like toast, html­to­image, tooltip, jsPDF.Optimized web pages for maximum efficiency and UI changes were done using ReactJS, Html, CSS, JS and AntD. Built Application tracking system web application for HRs. Built backend APIs using tools like NodeJS, ExpressJS, database was handled using MongoDB. Collaborated with frontend developers and designed the HR portal using ReactJS, Bootstrap 5, HTML, CSS and JS. Functionalities include adding new candidates, new jobs and processing the candidates for every round and updating their status for each round."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "Bootstrap 5",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Docker",
+        "level": "40%"
+      },
+      {
+        "name": "Figma",
+        "level": "80%"
+      },
+      {
+        "name": "DS and algorithms",
+        "level": "60%"
+      },
+      {
+        "name": "MIRO",
+        "level": "80%"
+      },
+      {
+        "name": "JIRA",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Application Tracking System",
+        "category": "ATS system for HRs",
+        "image": "ATS.png",
+        "url": "https://github.com/PriyankaRox/Application-Tracking-System"
+      },
+      {
+        "title": "Trade Statistics",
+        "category": "Stock trade Statistics project using React",
+        "image": "Trade-stat.png",
+        "url": "https://github.com/PriyankaRox/Trade-Statistics"
+      },
+      {
+        "title": "Boomerang Books",
+        "category": "Online second hand book buying and selling app",
+        "image": "books.png",
+        "url": "https://github.com/PriyankaRox/Online-Second-Hand-book-buying-and-selling-system"
+      },
+      {
+        "title": "Sign Language Recognition using ML",
+        "category": "Sign Language Recognition using ML",
+        "image": "sign.png",
+        "url": "https://github.com/PriyankaRox/Sign-Language-Recognition-using-ML"
+      }
+    ]
+  }
+}
